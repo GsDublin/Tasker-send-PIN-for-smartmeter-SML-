@@ -1,4 +1,4 @@
-# Tasker-send-PIN-for-smartmeter-SML-
+# Tasker send PIN to smartmeter with the phone flashlight/torch (SML receive photodiode)
 eHZB-W25E8-0LHPG-D6-A5Q1
 
 Send smartmeter PIN with mobilephone's torch ;-)
